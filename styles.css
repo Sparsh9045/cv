@@ -1,0 +1,38 @@
+body {
+  background-color:  #EAF6F6;
+}
+
+hr {
+
+  background-color:  #EAF6F6;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 2.5px;
+  width: 90%;
+
+
+}
+h2{
+  background-color:#66BFBF ;
+  width: 350px;
+}
+
+
+
+h3{
+  color: #086E7D;
+}
+.details{
+  background-color: orange;
+}
+.deta{
+  background-color: white;
+}
+.detai{
+  background-color: green;
+}
+h3:hover
+{
+  color: red;
+}
